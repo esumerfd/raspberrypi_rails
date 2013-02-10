@@ -5,6 +5,12 @@ Experimenting with the features of the Raspberry PI. Ideas include:
 
 1) Make the the site self deployable. No cap deploy, just https://localhost/update.
 
+Site:
+
+It might not be running at the moment but give it a shot:
+
+    http://pi.bitbashers.org:3000/
+
 Background
 ==========
 
