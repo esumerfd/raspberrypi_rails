@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Pipi::Application.load_tasks
+RaspiRails::Application.load_tasks
