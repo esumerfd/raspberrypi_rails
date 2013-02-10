@@ -9,7 +9,7 @@ Site:
 
 It might not be running at the moment but give it a shot:
 
-    http://pi.bitbashers.org:3000/
+[http://pi.bitbashers.org:3000/]
 
 Background
 ==========
